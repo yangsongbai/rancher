@@ -84,7 +84,7 @@ require (
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127
 	gopkg.in/ldap.v2 v2.5.0
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.2.8
 	k8s.io/api v0.0.0-20190805182251-6c9aa3caf3d6
 	k8s.io/apiextensions-apiserver v0.0.0-20190805184801-2defa3e98ef1
 	k8s.io/apimachinery v0.0.0-20190404173353-6a84e37a896d
